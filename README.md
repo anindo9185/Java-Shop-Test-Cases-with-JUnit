@@ -1,4 +1,7 @@
-# This is a repository for my Verification and Validation Course
+# Unit Testing of a simple Java Shop Program
+
+This repo is for demonstrating Unit Testing using JUnit. The project is a simple Java shop with payment, cart, admin, customer, product classes.
+
 
 There are 2 types of codes here.
 
