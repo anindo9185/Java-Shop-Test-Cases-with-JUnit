@@ -12,6 +12,7 @@ This can be found in the shopTest package located at /src/main/java
 
 Test cases for the shop is in the shopTest package located at src/test/java/
 The test cases cover 85% of the total classes
+![Screenshot from 2022-11-21 21-08-36](https://user-images.githubusercontent.com/29659719/203092645-9d540b36-71dd-41f0-9fdb-e0a9794695fe.png)
 
 ## shopTestWithoutPayment
 The payment class doesn't work for this code.
@@ -19,7 +20,6 @@ The payment class doesn't work for this code.
 This can be found in the shopTestWithoutPayment package located at /src/main/java
 
 Test cases for the shop is in the shopTestWithoutPayment package located at src/test/java/
-The test cases cover 73% of the total classes
 
 
 ## Dependency
